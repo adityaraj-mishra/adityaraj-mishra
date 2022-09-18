@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adityaraj-mishra/adityaraj-mishra/blob/master/sudo.jpg)
+![Linux](sudo.jpg)
 
 # Aditya Raj
 Hii, I am Aditya Raj from Bokaro, India. I love programming and development in Python and Django Framework. I also developed a model using CNN. 
